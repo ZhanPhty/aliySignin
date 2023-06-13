@@ -6,6 +6,5 @@
 
 > 添加订阅后可在定时任务列表发现新增任务, 可自行调整任务执行时间
 ```shell
-# 命令/脚本
-ql repo https://github.com/mrabit/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
+ql repo https://github.com/ZhanPhty/aliySignin.git "aliyAutoSignin" "" "qlApi"
 ```
