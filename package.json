@@ -1,0 +1,22 @@
+{
+  "name": "aliy_signin",
+  "version": "0.1.0",
+  "description": "阿里云盘每日签到，支持多账户",
+  "homepage": "https://github.com/ZhanPhty/aliySignin",
+  "main": "autoSignin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhanPhty/aliySignin.git"
+  },
+  "author": "zhanphty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhanPhty/aliySignin/issues"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
